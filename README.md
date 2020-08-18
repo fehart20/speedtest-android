@@ -32,6 +32,7 @@ One or more servers with [LibreSpeed](https://github.com/librespeed/speedtest) i
 
 ## License
 Copyright (C) 2020 Federico Dossena
+
 Copyright (C) 2020 FH-Development
 
 This program is free software: you can redistribute it and/or modify
