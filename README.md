@@ -1,4 +1,4 @@
-![LibreSpeed-Android Logo](https://github.com/adolfintel/speedtest-android/blob/master/.github/Readme-Logo.png?raw=true)
+![Speedomatic Logo](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/logo_title.png)
  
 # Speedomatic
 The Speedomatic App allows you to configure and distribute an Android app that performs a speedtest using your existing [LibreSpeed](https://github.com/librespeed/speedtest) server(s).
