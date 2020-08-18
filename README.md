@@ -1,42 +1,38 @@
 ![LibreSpeed-Android Logo](https://github.com/adolfintel/speedtest-android/blob/master/.github/Readme-Logo.png?raw=true)
  
-# LibreSpeed Android Template
-The Speedtest Android template allows you to configure and distribute an Android app that performs a speedtest using your existing [LibreSpeed](https://github.com/librespeed/speedtest) server(s).
+# Speedomatic
+The Speedomatic App allows you to configure and distribute an Android app that performs a speedtest using your existing [LibreSpeed](https://github.com/librespeed/speedtest) server(s).
 
-The template is easy to configure, customize and distribute.
+The template for this App is forked from [LibreSpeed](https://github.com/librespeed/speedtest-android)
  
-## Try it
+## Download it
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.dosse.speedtest/)
-
-Alternatively, you can [download a demo APK](https://downloads.fdossena.com/geth.php?r=speedtest-android-apk)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+     alt="Get it on Google Play."
+     height="80">](https://#)
 
 ## Compatibility
-Android 4.0.3 and up (SDK 15), all architectures.
+Android 4.0.3 and higher, all architectures.
 
 ## Features
 * Download
 * Upload
 * Ping
 * Jitter
-* IP Address, ISP, distance from server (optional)
-* Telemetry (optional)
-* Results sharing (optional)
-* Multiple Points of Test (optional)
+* IP Address, ISP, distance from server (when configured)
+* Telemetry (when configured)
+* Results sharing (when configured)
+* Multiple Points of Test (when configured)
 
 ![Screenshot](https://github.com/librespeed/speedtest-android/blob/master/.github/screenshots.png?raw=true)
 
 ## Server requirements
 One or more servers with [LibreSpeed](https://github.com/librespeed/speedtest) installed.
 
-## Donate
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
 
 ## License
 Copyright (C) 2020 Federico Dossena
+Copyright (C) 2020 FH-Development
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
