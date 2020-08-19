@@ -9,7 +9,7 @@ The template for this App is forked from [LibreSpeed](https://github.com/libresp
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
      alt="Get it on Google Play."
-     height="80">](https://#)
+     height="80">](https://play.google.com/store/apps/details?id=de.fhcom.speedomatik)
 
 ## Compatibility
 Android 4.0.3 and higher, all architectures.
